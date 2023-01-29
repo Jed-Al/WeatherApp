@@ -1,4 +1,27 @@
-.App {
-  text-align: center;
+.practice {
+  /* background-image: url(C:\Users\win10\OneDrive\torture_room\react\weatherapp\src\images\daisy.jpg); */
+  display : flex;
+  flex-direction : row;
+  height : 100vh;
+  width : 100vw;
+  background-size: cover;
+  background-position: center;
+  /* border: 80px solid black; */
 }
 
+.left{
+  width : 70vw;
+  /* background-color : antiquewhite; */
+}
+
+.right{
+  /* background-image: inherit; */
+  /* filter: blur(10px); */
+  width : 30vw;
+/* -webkit-filter: blur(8px); */
+  /* background-color : pink; */
+}
+
+.image{
+  object-fit: fill;
+}
