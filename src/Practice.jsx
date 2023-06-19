@@ -19,7 +19,7 @@ import cloudySky from './images/cloudySky.jpg';
 import fewClouds from './images/fewClouds.jpg';
 import scatteredClouds from './images/scatteredClouds.jpeg';
 import lightning from './images/flashPurple.jpg';
-import thunderRain from './images/thunderstromRain.jpg'; 
+import thunderRain from './images/thunderstromRain.jpg'
 import './Practice.css';
 
 const API = {
